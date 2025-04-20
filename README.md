@@ -9,6 +9,11 @@
 💡 I'm passionate about **AI/ML**, **Full Stack Web Development**, and **Automation Testing**  
 ✨ I love learning, building projects, and exploring cutting-edge tech  
 
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sankhayan-sadhukhan-708682303/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankhayansadhukhan71@gmail.com)
+
 ---
 
 ### 🛠️ Tech Stack
@@ -37,19 +42,6 @@
 
 ---
 
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shankhayon&show_icons=true&theme=radical" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankhayon&layout=compact&theme=radical" height="150">
-</p>
-
----
 
 <!-- Optional Visitor Counter -->
 <p align="center">
