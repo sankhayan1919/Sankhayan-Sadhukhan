@@ -42,6 +42,9 @@
 
 ---
 
+### 💻 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sankhayan2004?theme=unicorn&ext=heatmap)
+
 
 <!-- Optional Visitor Counter -->
 <p align="center">
